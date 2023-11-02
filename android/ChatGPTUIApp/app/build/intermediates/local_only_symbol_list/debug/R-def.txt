@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable border_edit_text
+drawable gptlogo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable save
+id auditRv
+id cancel_btn
+id datetime
+id divider
+id divider1
+id prompt
+id prompt_input
+id response
+id response_title
+id response_txt
+id save_audit_btn
+id send_btn
+id seq_no
+id table_headers
+id title
+layout activity_main
+layout audit_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ChatGPTUIApp
+style Theme.ChatGPTUIApp
+xml backup_rules
+xml data_extraction_rules
